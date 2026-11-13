@@ -1,0 +1,45 @@
+{
+  "left": [
+    {
+      "row_id": "l1",
+      "product": "P",
+      "source": "X",
+      "t": 10
+    },
+    {
+      "row_id": "l2",
+      "product": "P",
+      "source": "X",
+      "t": 12
+    },
+    {
+      "row_id": "l3",
+      "product": "P",
+      "source": "X",
+      "t": null
+    }
+  ],
+  "right": [
+    {
+      "row_id": "r1",
+      "product": "P",
+      "source": "X",
+      "t": 8,
+      "priority": 1
+    },
+    {
+      "row_id": "r2",
+      "product": "P",
+      "source": "X",
+      "t": 12,
+      "priority": 0
+    },
+    {
+      "row_id": "r3",
+      "product": "P",
+      "source": "X",
+      "t": 8,
+      "priority": 2
+    }
+  ]
+}
